@@ -1,0 +1,2 @@
+Hello Git. This is a simple text file to use for this tutorial!
+Let's get started!
