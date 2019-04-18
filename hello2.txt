@@ -1,1 +1,4 @@
-Using branching to add a new feature to the project.
+<<<<<<< HEAD
+=======
+Testing how to checkout previous versions and also resolving conflicts
+>>>>>>> branch3
