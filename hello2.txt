@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
 Testing how to checkout previous versions and also resolving conflicts
->>>>>>> branch3
